@@ -9,7 +9,7 @@ export default function Navbar() {
     <h1    className='    uppercase  text-white    text-4xl  font-bold    '>  Start Framework
     </h1> 
      <ul        className='   text-white  capitalize      flex      space-x-5    items-center   text-xl   font-semibold '>
-<li><NavLink to ='about'   >ABOUT</NavLink></li>
+<li><NavLink to ='about'   >ABOUu</NavLink></li>
 <li><NavLink to='contact'>CONTACT</NavLink></li>
 <li><NavLink to='portofilo'>PORTPOFILO</NavLink></li>
 

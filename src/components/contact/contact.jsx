@@ -78,7 +78,8 @@ export default function Contact() {
           placeholder="userEmail"
           onInput={handleFocus('3')}
           onBlur={handleBlur('3')}
-          className="text-gray-500 w-3/5 p-3 bg-transparent text-xl    border-none              "
+          className="text-gray-500 w-3/5 p-3 bg-transparent text-xl    border-none
+                        "
         /></div>
   <div className="nnn      relative" >   <label
           htmlFor="4"
