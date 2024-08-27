@@ -96,7 +96,8 @@ export default function Contact() {
           onInput={handleFocus('4')}
           onBlur={handleBlur('4')}
           className="text-gray-500 w-3/5 p-3 bg-transparent text-xl"
-        /></div></div>
+        />  
+                      </div> <button className='p-4 bg-red-400 rounded-md '> sumpit </button>  </div>
   
   
   
